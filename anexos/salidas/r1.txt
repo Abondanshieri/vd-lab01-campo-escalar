@@ -1,0 +1,4 @@
+Forma: (50, 50) | posiciones: 2500
+Punto central T[c, c] -> 31.969 °C en ( 0.102 , 0.102 )
+Máximo real de la grilla: 31.969 °C
+Paso entre puntos -> 25: 0.417  | 50: 0.204

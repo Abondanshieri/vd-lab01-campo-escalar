@@ -1,0 +1,8 @@
+Forma del campo escalar: (25, 25)
+Temperatura en el centro: 32.0 °C
+Temperatura mínima: 20.02 °C
+Temperatura máxima: 32.0 °C
+Temperaturas de la zona central:
+[[31.5 31.7 31.5]
+ [31.7 32.  31.7]
+ [31.5 31.7 31.5]]

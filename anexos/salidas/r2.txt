@@ -1,0 +1,2 @@
+Centro: 38.0 °C | máximo: 38.0 °C | mínimo: 20.03 °C
+Celdas por encima de 32 °C (fuera de la escala original): 61 de 625

@@ -1,0 +1,3 @@
+Forma de X: (25, 25)
+Total de posiciones: 625
+Posición del centro: 0.0 0.0

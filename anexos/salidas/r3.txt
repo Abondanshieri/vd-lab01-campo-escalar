@@ -1,0 +1,12 @@
+22 °C -> radio 3.79
+24 °C -> radio 2.96
+26 °C -> radio 2.35
+28 °C -> radio 1.80
+30 °C -> radio 1.21
+31 °C -> radio 0.83
+Variación de temperatura por unidad de distancia entre isolíneas consecutivas:
+  22 -> 24 °C: 2.43 °C/unidad
+  24 -> 26 °C: 3.28 °C/unidad
+  26 -> 28 °C: 3.61 °C/unidad
+  28 -> 30 °C: 3.37 °C/unidad
+  30 -> 31 °C: 2.68 °C/unidad
