@@ -15,7 +15,7 @@ Se visualizó una temperatura simulada sobre una grilla de 25 × 25 puntos media
 | `src/LAB_01_Arela_Mamani_Franco.py` | El mismo código en texto plano |
 | `anexos/figuras/` | 6 figuras PNG extraídas del cuaderno |
 | `anexos/salidas/` | Salidas de consola de cada bloque |
-| `informe/` | Informe del laboratorio en `.docx` y `.pdf` |
+| `informe/` | Informe del laboratorio en PDF |
 
 ## Cómo reproducirlo
 
